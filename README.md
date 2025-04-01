@@ -1,2 +1,3 @@
-# Hangman-with-a-Spider-Twist-
-A Python-powered hangman game with a creepy twist — each wrong guess draws a spider step-by-step in ASCII art. Fun, visual, and beginner-friendly!
+ Hangman with a Spider Twist
+
+ArachnoPhonics is a beginner-friendly hangman-style game written in Python. Instead of the traditional stick figure, each incorrect guess draws a spider step-by-step using ASCII art. The game features a randomized word generator, tracks wins and losses, and displays the player's progress after each guess. It’s a console-based project designed to reinforce concepts like functions, conditionals, loops, and file handling. All game logic is organized across multiple Python files for clarity and modularity. This project was created with guidance and support from Code2College.
